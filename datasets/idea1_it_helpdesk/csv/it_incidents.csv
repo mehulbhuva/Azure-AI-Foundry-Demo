@@ -1,0 +1,5 @@
+TicketID,Submitted,Category,Subcategory,Impact,Priority,Status,Description
+INC-1001,2026-01-10 09:14,Network,Wi-Fi,Medium,P3,Closed,Slow Wi-Fi in conference room C.
+INC-1002,2026-01-11 13:41,VPN,Connectivity,High,P2,In Progress,VPN not connecting from hotel network.
+INC-1003,2026-01-12 08:02,Account,Password,Low,P4,Resolved,Password reset requested; MFA verified.
+INC-1004,2026-01-13 16:25,Network,Wired,Medium,P3,Open,No internet on wired port in Lab 2.

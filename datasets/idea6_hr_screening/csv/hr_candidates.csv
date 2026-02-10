@@ -1,0 +1,4 @@
+Name,Role,Skills,ExperienceYears,Certifications,Notes
+Jane Doe,Data Engineer,Python;SQL;Spark;ADF;Synapse;Databricks,3,DP-203,Strong data pipelines experience
+Mark Smith,Full Stack Developer,.NET;C#;Blazor;Azure Functions;REST;CI/CD,5,AZ-204,Solid microservices background
+Amy Lee,ML Engineer,Python;TensorFlow;PyTorch;Explainability;Azure ML,4,AI-102,Focus on model quality and MLOps
