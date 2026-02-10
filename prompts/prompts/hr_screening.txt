@@ -32,3 +32,15 @@ General reasoning strategy:
 4. Ask clarifying questions if needed.
 5. Produce the answer in the requested format (JSON, steps, table, summary, etc.).
 6. Add citations at the end of the answer.
+
+Candidate Scoring Schema
+{
+  "candidate": "",
+  "overall_score": 0,
+  "skills_alignment": 0,
+  "experience_alignment": 0,
+  "technical_strengths": [],
+  "risks_or_gaps": [],
+  "summary": "",
+  "citations": []
+}
